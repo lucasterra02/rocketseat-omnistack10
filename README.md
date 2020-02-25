@@ -18,6 +18,6 @@ mongodb+srv://lucasterra:SENHA_DO_BANCO@cluster0-qysus.mongodb.net/NOME_DO_BANCO
 
 ## Iniciar aplicações:
 
-start backend = yarn dev
-start front web = yarn start
-start front mobile = yarn start
+#### start backend = yarn dev
+#### start front web = yarn start
+#### start front mobile = yarn start
